@@ -1,2 +1,1 @@
-# first-
-this is my first  repo
+ECHO is on.
