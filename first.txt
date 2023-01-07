@@ -1,4 +1,4 @@
-Hello I'm Anayet. A little mern stack developer
+fHello I'm Anayet. A little mern stack developer
 I started my journer 2016 to continue
 I have started my job in 2021 
 Now start my bachelor degreen.
@@ -10,3 +10,5 @@ I want to join google at 2024 insallah.
 Argentina won the fifa 2022 world cup.
 Let's Go for a tour
 Have a nice tour!
+Life is not a bed of roses.
+
